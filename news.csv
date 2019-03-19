@@ -1,31 +1,30 @@
-Title,Link
-Air-breathing rocket engine set for key tests,https://www.bbc.co.uk/news/science-environment-47585433
-How to Live Without Google (2017),https://spreadprivacy.com/how-to-remove-google/
-Apache Jena,http://jena.apache.org
-K7 Tutorial,https://cs.nyu.edu/cs/faculty/shasha/papers/tutorial
-Show HN: Applying Machine Learning to March Madness,https://github.com/adeshpande3/March-Madness-ML
-Alan Kay on the Meaning of “Object-Oriented Programming” (2003),http://www.purl.org/stefan_ram/pub/doc_kay_oop_en
-US Department of Transportation Investigating FAA's Approval of 737 MAX,https://www.wsj.com/articles/faas-737-max-approval-is-probed-11552868400
-Matrix 1.0 – Are We Ready Yet?,https://matrix.org/blog/2019/03/15/matrix-1-0-https-arewereadyyet-com/
-Atlas observes light scattering off light,https://atlas.cern/updates/physics-briefing/atlas-observes-light-scattering-light
-The Unix-Haters Handbook (1994) [pdf],http://web.mit.edu/~simsong/www/ugh.pdf
-Higher-Order Type-Level Programming in Haskell [pdf],https://www.microsoft.com/en-us/research/uploads/prod/2019/03/ho-haskell-5c8bb4918a4de.pdf
-Vim Anti-Patterns (2012),https://sanctum.geek.nz/arabesque/vim-anti-patterns/
-"Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all",https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/
-Musk: Osborning His Model 3,https://mondaynote.com/musk-osborning-his-model-3-5e7c76fbaf8b
-Logipedia – Encyclopedia of Formal Proofs,http://logipedia.inria.fr/
-Why Are Human Teeth So Messed Up? (2017),https://www.sapiens.org/body/human-teeth-evolution/
-"To build the cities of the future, we must get out of our cars",https://www.nationalgeographic.com/magazine/2019/04/to-build-cities-of-the-future-stop-driving-cars
-How MSG Got a Bad Rap (2016),https://fivethirtyeight.com/features/how-msg-got-a-bad-rap-flawed-science-and-xenophobia/
-Datacenter RPCs can be general and fast,https://blog.acolyer.org/2019/03/18/datacenter-rpcs-can-be-general-and-fast/
-Crossfont: Easy-to-use font editor for Mac,http://www.pixelegg.me/crossfont
-Thinkpad X210,https://geoff.greer.fm/2019/03/04/thinkpad-x210/
-"RLgraph: Robust, incrementally testable reinforcement learning",https://rlgraph.github.io/rlgraph/2019/01/04/introducing-rlgraph.html
-Myspace lost all the music its users uploaded between 2003 and 2015,https://boingboing.net/2019/03/17/facebook-is-next.html
-Hacking your face to dodge the rise of facial recognition tech,https://www.wired.co.uk/article/avoid-facial-recognition-software
-How rats became an inescapable part of city living,https://www.nationalgeographic.com/magazine/2019/04/rats-are-an-inescapable-part-of-city-life/
-Gurdjieff and the Women of ‘The Rope’ (1997),http://www.gurdjieff.org/rope.htm
-The Accumulibrary (2014),http://www.slate.com/articles/technology/future_tense/2014/07/the_accumulibrary_modern_libraries_should_be_as_big_and_chaotic_as_amazon.html
-An entrepreneur has built a one-metre-long stretch of motorway in Romania,https://www.bbc.com/news/world-europe-47582694
-Why Asians wear surgical masks in public (2014),https://qz.com/299003/a-quick-history-of-why-asians-wear-surgical-masks-in-public/
-Questions on the Future of Open Source,https://gist.github.com/skamille/78fcc0576a0db3e72c25ec0cf456f619
+Title,Link,Upvotes,Author
+EU government websites have undisclosed adtech trackers from Google and others,https://www.theregister.co.uk/2019/03/18/cookie_government_tracking_report/,461 points,snaky
+Nvidia's $99 Jetson Nano Is an AI Computer for DIY Enthusiasts,https://www.engadget.com/2019/03/18/nvidia-jetson-nano-ai-computer/,198 points,plasticchris
+Show HN: Drogon – A C++14/17 based high performance HTTP application framework,https://github.com/an-tao/drogon,61 points,an-tao
+How we do Vue: one year later (2017),https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/,203 points,NicoJuicy
+What Working at Stripe Has Been Like,https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/,568 points,troydavis
+"Atta Elayyan, Developer of MetroTube and LazyWorm Apps, Killed in Christchurch",https://www.dailyesports.gg/remembering-atta-elayyan-christchurch-shooting-victim/,575 points,twistedlogicx
+Azure Data Studio: An Open-Source GUI Editor for Postgres,https://azure.microsoft.com/en-us/blog/azure-data-studio-an-open-source-gui-editor-for-postgres/,98 points,craigkerstiens
+Eliminating Robocalls,https://www.twilio.com/blog/your-phone-your-call-eliminating-robocalls,204 points,johns
+Barcelona Fines Landlords Who Let Buildings Sit Empty,https://www.citylab.com/equity/2019/03/barcelona-affordable-housing-spain-apartment-rental-fines/584902/,259 points,pseudolus
+"CIA Doc on Time Travel, Consciousness, and Existence of the Absolute (1983) [pdf]",https://www.cia.gov/library/readingroom/docs/CIA-RDP96-00788R001700210016-5.pdf,99 points,jules-jules
+Stomach of Dead Whale Contained 'Nothing but Nonstop Plastic',https://www.npr.org/2019/03/18/704471596/stomach-of-dead-whale-contained-nothing-but-plastic,18 points,Ultramanoid
+Making 3D Terrain Maps (2017),http://shadedrelief.com/3D_Terrain_Maps/,32 points,nkurz
+Tips and tricks to write LaTeX papers in with figures generated in Python,https://github.com/Wookai/paper-tips-and-tricks,104 points,Wookai
+The Loading Dock Manifesto,https://www.esquire.com/news-politics/a9834/john-hyduk-0511/,38 points,wormold
+Quantum Computing for the Curious,https://quantum.country/qcvc/,33 points,roi
+"Simple script to analyse your PostgreSQL database config, give tuning advice",https://github.com/jfcoz/postgresqltuner,224 points,LinuxBender
+Altimir: Life in the depopulated Bulgarian countryside [video],https://www.youtube.com/watch?v=c9Ufhi_42h0,9 points,oska
+My Cognitive Bias – A cognitive bias explained every time you open a new tab,https://mycognitivebias.com/,58 points,wgx
+Open-sourcing Sandboxed API,https://security.googleblog.com/2019/03/open-sourcing-sandboxed-api.html,123 points,gynvael
+Atlassian Acquires AgileCraft for $166M,https://techcrunch.com/2019/03/18/atlassian-acquires-agilecraft-for-166m/,102 points,zhuxuefeng1994
+How cigarette makers applied their marketing wizardry to sweetened beverages,https://www.nytimes.com/2019/03/14/health/big-tobacco-kool-aid-sugar-obesity.html,90 points,pseudolus
+Op amp on the Moon: Reverse-engineering a hybrid op amp module,http://www.righto.com/2019/02/op-amp-on-moon-reverse-engineering.html,32 points,cristoperb
+New Tools for Detecting HTTPS Interception,https://blog.cloudflare.com/monsters-in-the-middleboxes/,177 points,grittygrease
+"The rise and fall of scientific authority, and how to bring it back",https://www.nature.com/articles/d41586-019-00872-w,170 points,bookofjoe
+Ketamine: From Party Drug to Prescription Medicine,https://www.cugmhp.org/2019/03/15/ketamine-from-party-drug-to-prescription-medicine/,80 points,laurex
+Introduction to Datalog,https://x775.net/2019/03/18/Introduction-to-Datalog.html,165 points,x775
+Herpes Virus Reactivation in Astronauts During Spaceflight,https://www.frontiersin.org/articles/10.3389/fmicb.2019.00016/full,97 points,daegloe
+Alex Gibney on the Fall of Theranos and Elizabeth Holmes,https://www.theguardian.com/technology/2019/mar/17/americans-have-a-fascination-with-fraudsters-alex-gibney-on-the-fall-of-theranos-and-elizabeth-holmes,65 points,danso
+Ask HN: How to learn best practices when you have no one to teach you?,item?id=19423228,331 points,bradhoffman
